@@ -27,7 +27,7 @@ const Todolist = (props) => {
                 ></i>
               </div>
             </li>
-          )) : <li>No todos available.</li>
+          )) : <li>No todos available to show.</li>
         }
       </ul>
     </div>
